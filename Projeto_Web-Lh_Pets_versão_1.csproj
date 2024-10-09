@@ -8,8 +8,9 @@
     <RootNamespace>Projeto_Web_Lh_Pets_versão_1</RootNamespace>
   </PropertyGroup>
 
-</Project>
+
   <ItemGroup>
     <PackageReference Include="System.Data.SqlClient"
     Version="4.8.5"/>
     </ItemGroup>
+    </Project>

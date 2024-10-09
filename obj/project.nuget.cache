@@ -1,8 +1,209 @@
 {
   "version": 2,
-  "dgSpecHash": "O5qU+Nl+ygc05kun+et/gRpPrCDdEZW7ErwCRlKsXABsStV+sIEwTmsEbTvm39hXffyMLU3wmVZeVlHIQffH4w==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\mariz\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "dgSpecHash": "D7SqrBoo06TcgCivip1pHluyqeha2bczLBqynOrGhAdYEBrvpFwDtJl3Y0yLPphmZiaYsCOZwCqVE5jBGZvjHw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mariz\\Desktop\\Projeto_Web-Lh_Pets_Versão_1\\Projeto_Web-Lh_Pets_versão_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\mariz\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'System.Data.SqlClient' da origem remota 'https://packagesource/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'System.Data.SqlClient' da origem remota 'https://packagesource1/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'System.Data.SqlClient' da origem remota 'https://packagesource2/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'System.Data.SqlClient' da origem remota 'https://packagesource2/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'System.Data.SqlClient' da origem remota 'https://packagesource/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'System.Data.SqlClient' da origem remota 'https://packagesource1/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-arm64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.win-arm64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-arm64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.win-arm64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.win-x64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.win-x64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-arm64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.win-arm64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-arm64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.win-arm64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.win-x64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.win-x64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x86.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.win-x86.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x86.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource/FindPackagesById()?id='runtime.win-x86.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x86.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.win-x86.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x86.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.win-x86.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.win-x64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.win-x64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-arm64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.win-arm64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-arm64.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource1/FindPackagesById()?id='runtime.win-arm64.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x86.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.win-x86.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Falha ao recuperar informações sobre 'runtime.win-x86.runtime.native.System.Data.SqlClient.sni' da origem remota 'https://packagesource2/FindPackagesById()?id='runtime.win-x86.runtime.native.System.Data.SqlClient.sni'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Data.SqlClient' 4.8.5 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
